@@ -29,6 +29,10 @@ module.exports = {
                 lakeThun: "#49C2E5",
                 dull: "#767171",
                 Madonna: "#3F4352",
+                KulSharifBlue: "#87DBF6",
+                RoyalCurtsy: "#282C4B",
+                TrappedDarkness: "#101D34",
+                Confederate: "#5D6473",
             },
             screens: {
                 sm: "640px",
