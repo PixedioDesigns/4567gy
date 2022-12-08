@@ -191,3 +191,34 @@ export const CommaIcon = () => {
         </>
     );
 };
+export const BookIcon = () => {
+    return (
+        <>
+            <svg width="34" height="40" viewBox="0 0 34 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M6.9375 1.3125H29.9375C30.7 1.3125 31.4313 1.6154 31.9704 2.15457C32.5096 2.69373 32.8125 3.425 32.8125 4.1875V35.8125C32.8125 36.575 32.5096 37.3063 31.9704 37.8454C31.4313 38.3846 30.7 38.6875 29.9375 38.6875H6.9375V1.3125Z"
+                    stroke="white"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                />
+                <path
+                    d="M4.0625 1.3125H6.9375V38.6875H4.0625C3.3 38.6875 2.56873 38.3846 2.02957 37.8454C1.4904 37.3063 1.1875 36.575 1.1875 35.8125V4.1875C1.1875 3.425 1.4904 2.69373 2.02957 2.15457C2.56873 1.6154 3.3 1.3125 4.0625 1.3125V1.3125Z"
+                    stroke="white"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                />
+                <path d="M24.1875 31.5H15.5625" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M27.0625 25.75H12.6875" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <path
+                    d="M24.1875 8.5H15.5625C13.9747 8.5 12.6875 9.78718 12.6875 11.375V14.25C12.6875 15.8378 13.9747 17.125 15.5625 17.125H24.1875C25.7753 17.125 27.0625 15.8378 27.0625 14.25V11.375C27.0625 9.78718 25.7753 8.5 24.1875 8.5Z"
+                    stroke="white"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                />
+            </svg>
+        </>
+    );
+};
