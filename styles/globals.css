@@ -64,6 +64,26 @@
     filter: blur(-80px);
 } */
 .customer_say {
-    background: #ffffff;
-    box-shadow: 28.1403px 0px 49.2456px rgba(123, 67, 67, 0.07), -28.1403px 70.3508px 49.2456px rgba(122, 79, 79, 0.07);
+  background: #ffffff;
+  box-shadow: 28.1403px 0px 49.2456px rgba(123, 67, 67, 0.07),
+    -28.1403px 70.3508px 49.2456px rgba(122, 79, 79, 0.07);
+}
+
+.service-shadow-hover::after {
+  background: rgba(67, 27, 73, 0.17);
+  filter: blur(80px);
+  border-radius: 8px;
+  opacity: 0;
+  z-index: 0;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transition: all 0.2s ease;
+}
+
+.service-shadow-hover:hover::after {
+  opacity: 1;
 }
