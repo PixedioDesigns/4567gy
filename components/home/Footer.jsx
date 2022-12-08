@@ -3,8 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-[#282C4B] px-3 py-6 sm:px-10 flex flex-col lg:flex-row items-center justify-between">
-      <div className="flex flex-col sm:flex-row items-center">
-        <span className="sm:border-r pr-14">
+      <div className="flex flex-col lg:flex-row items-center">
+        <span className="lg:border-r lg:pr-14">
           {" "}
           <svg
             width="246"
@@ -64,7 +64,7 @@ const Footer = () => {
           </svg>
         </span>
 
-        <p className="text-white text-base ff_ubuntu flex items-center py-6 sm:py-0 sm:pl-8">
+        <p className="text-white text-base ff_ubuntu flex items-center py-6 lg:py-0 lg:pl-8">
           <svg
             className="mr-2"
             width="14"
@@ -89,7 +89,7 @@ const Footer = () => {
         </p>
       </div>
 
-      <ul className="flex items-center text-white text-base ff_ubuntu pb-6 sm:py-0">
+      <ul className="flex items-center text-white text-base ff_ubuntu pb-6 lg:py-0">
         <li className="mx-6 cursor-pointer hover:opacity-70 transition-all duration-200 ease">
           Portfolio
         </li>
