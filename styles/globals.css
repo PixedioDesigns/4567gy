@@ -59,3 +59,11 @@
   z-index: 0;
   filter: blur(30px);
 }
+/* .services:hover {
+    background: rgba(67, 27, 73, 0.17);
+    filter: blur(-80px);
+} */
+.customer_say {
+    background: #ffffff;
+    box-shadow: 28.1403px 0px 49.2456px rgba(123, 67, 67, 0.07), -28.1403px 70.3508px 49.2456px rgba(122, 79, 79, 0.07);
+}
