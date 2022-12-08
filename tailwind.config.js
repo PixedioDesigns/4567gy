@@ -28,6 +28,7 @@ module.exports = {
                 BrilliantLicorice: "#555252",
                 lakeThun: "#49C2E5",
                 dull: "#767171",
+                Madonna: "#3F4352",
             },
             screens: {
                 sm: "640px",
