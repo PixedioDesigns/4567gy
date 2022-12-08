@@ -5,7 +5,7 @@ const Hero = () => {
         <div>
             <div className="container mx-auto">
                 <div>
-                    <h1>Get your business online </h1>
+                    <h1 className="font-">Get your business online </h1>
                 </div>
             </div>
         </div>
