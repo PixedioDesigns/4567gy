@@ -26,6 +26,8 @@ module.exports = {
             colors: {
                 darkBlack: "#101828",
                 BrilliantLicorice: "#555252",
+                lakeThun: "#49C2E5",
+                dull: "#767171",
             },
             screens: {
                 sm: "640px",
