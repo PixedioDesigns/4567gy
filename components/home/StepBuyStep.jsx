@@ -15,7 +15,7 @@ function StepBuyStep() {
           Our step by step process
         </h1>
         <div className="flex flex-wrap  justify-center ">
-          <div className="step-card h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
+          <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
             <div
               className="absolute w-[94px] h-[93px] rounded-[30px] bg-[#2FA4FF] top-[-24px] 
             left-[-30px]  flex justify-center items-center "
@@ -33,7 +33,7 @@ function StepBuyStep() {
               webpage design if you have one.
             </p>
           </div>
-          <div className="step-card h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
+          <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
             <div
               className="absolute w-[94px] h-[93px] rounded-[30px] bg-[#2FA4FF] top-[-24px] 
             left-[-30px]  flex justify-center items-center "
@@ -52,7 +52,7 @@ function StepBuyStep() {
               you’re absolutely satisfied with the design.
             </p>
           </div>
-          <div className="step-card h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
+          <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
             <div
               className="absolute w-[94px] h-[93px] rounded-[30px] bg-[#2FA4FF] top-[-24px] 
             left-[-30px]  flex justify-center items-center "
@@ -69,7 +69,7 @@ function StepBuyStep() {
               create a stunning website for you based on the designs
             </p>
           </div>
-          <div className="step-card h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
+          <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
             <div
               className="absolute w-[94px] h-[93px] rounded-[30px] bg-[#2FA4FF] top-[-24px] 
             left-[-30px]  flex justify-center items-center "
@@ -86,7 +86,7 @@ function StepBuyStep() {
               maitenince and more.
             </p>
           </div>
-          <div className="step-card h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
+          <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
             <div
               className="absolute w-[94px] h-[93px] rounded-[30px] bg-[#2FA4FF] top-[-24px] 
             left-[-30px]  flex justify-center items-center "

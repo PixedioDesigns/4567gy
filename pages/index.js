@@ -9,6 +9,7 @@ import SimplePricing from "../components/home/SimplePricing";
 import StepBuyStep from "../components/home/StepBuyStep";
 import OurWork from "../components/home/OurWork";
 import YouCoverd from "../components/home/YouCoverd";
+import BackToTop from "../components/home/BackToTop";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <GotBiggerGols />
       <YouCoverd />
       <Footer />
+      <BackToTop />
     </>
   );
 }
