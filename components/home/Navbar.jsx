@@ -10,6 +10,7 @@ const Navbar = () => {
           viewBox="0 0 324 84"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
+          className="cursor-pointer "
         >
           <path
             d="M34.3754 34.4433C34.3754 15.4246 18.9589 0.0499268 0 0.0499268V34.4433H34.3754Z"

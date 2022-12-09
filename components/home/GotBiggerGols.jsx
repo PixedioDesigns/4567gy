@@ -6,7 +6,7 @@ function GotBiggerGols() {
       <div className="container mx-auto px-5 py-6">
         <div className=" bigger-shadow px-5 pb-8 rounded-[10px]">
           {" "}
-          <h1 className="  sm:mb-10 mb-8 pt-6   ff_dm_sans text-4xl sm:text-7xl lg:text-10xl text-center">
+          <h1 className="  sm:mb-10 mb-8 pt-6   ff_dm_sans text-4xl md:text-7xl lg:text-9xl text-center font-bold">
             Got Bigger Goals?{" "}
           </h1>
           <p className="text-2md text-[#696871] max-w-[809px] text-center mx-auto leading-[300%]">

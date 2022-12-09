@@ -11,7 +11,7 @@ function StepBuyStep() {
   return (
     <section>
       <div className="container mx-auto my-[50px] px-3 sm:my-[120px] lg:my-[170px]  ">
-        <h1 className="md:mb-16 sm:mb-10 mb-8   ff_dm_sans text-4xl sm:text-7xl lg:text-10xl text-center">
+        <h1 className="md:mb-16 sm:mb-10 mb-8 font-normal   ff_dm_sans text-4xl sm:text-7xl lg:text-10xl text-center">
           Our step by step process
         </h1>
         <div className="flex flex-wrap  justify-center ">

@@ -6,7 +6,7 @@ const HeroFreeConsultant = () => {
       <div className="hero-free-consultant-form-bg relative">
         <img
           src="/images/bg-image-form-1.png"
-          className="absolute left-0 -top-10 "
+          className="absolute -left-4 -top-14 "
           alt="bg form image"
         />
         <form className="z-10  relative bg-white max-w-[465px] mx-auto p-6 sm:p-10 w-full rounded-[16px] shadow-hero-form">
