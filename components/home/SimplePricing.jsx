@@ -3,7 +3,7 @@ import React from "react";
 const SimplePricing = () => {
   return (
     <div className="max-w-[1280px] mx-auto px-3">
-      <h1 className="md:mb-16 sm:mb-10 mb-8   ff_dm_sans text-4xl sm:text-7xl lg:text-xxl text-center">
+      <h1 className="md:mb-16 sm:mb-10 mb-8   ff_dm_sans text-4xl sm:text-7xl lg:text-10xl text-center">
         Simple Pricing{" "}
       </h1>
 
