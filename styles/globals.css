@@ -125,3 +125,19 @@
   border: 1.40702px solid rgba(255, 255, 255, 0.8);
   box-shadow: 0px 21.1053px 35.1754px rgba(168, 22, 75, 0.15);
 }
+
+.after-hover-our-work::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: all 0.2s ease-in;
+}
+
+.after-hover-our-work:hover::after {
+  opacity: 1;
+}
