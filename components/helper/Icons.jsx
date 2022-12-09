@@ -31,8 +31,8 @@ export const SearchIcon = () => {
             gradientUnits="userSpaceOnUse"
             gradientTransform="translate(20 -5.5) rotate(129.44) scale(40.1404)"
           >
-            <stop stop-color="#FFF0EE" />
-            <stop offset="1" stop-color="#2FA4FF" />
+            <stop stopColor="#FFF0EE" />
+            <stop offset="1" stopColor="#2FA4FF" />
           </radialGradient>
         </defs>
       </svg>
@@ -117,8 +117,8 @@ export const WebSiteIcon = () => {
             y2="89.8"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-opacity="0" />
-            <stop offset="1" stop-color="white" />
+            <stop stopOpacity="0" />
+            <stop offset="1" stopColor="white" />
           </linearGradient>
         </defs>
       </svg>
@@ -201,8 +201,8 @@ export const StackIcon = () => {
             y2="29.9489"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-color="#80D4F0" />
-            <stop offset="1" stop-color="#2FA4FF" />
+            <stop stopColor="#80D4F0" />
+            <stop offset="1" stopColor="#2FA4FF" />
           </linearGradient>
         </defs>
       </svg>
