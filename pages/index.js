@@ -10,10 +10,12 @@ import StepBuyStep from "../components/home/StepBuyStep";
 import OurWork from "../components/home/OurWork";
 import YouCoverd from "../components/home/YouCoverd";
 import BackToTop from "../components/home/BackToTop";
+import Seo from "../components/home/Seo";
 
 export default function Home() {
   return (
     <>
+      <Seo />
       <Navbar />
       <Hero />
       <Performance />

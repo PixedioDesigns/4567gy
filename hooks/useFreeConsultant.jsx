@@ -13,7 +13,6 @@ export default function useFreeConsultant() {
   };
   const [formData, setFormData] = useState(initialState);
   const [isLoading, setLoading] = useState(false);
-  Swal.fire("Oops!", "Failed to submit form, Please Try again!", "error");
 
   const handleSubmit = (e) => {
     e.preventDefault();
