@@ -87,6 +87,41 @@
 .service-shadow-hover:hover::after {
   opacity: 1;
 }
+.process_card {
+  background: #ffffff;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 10.0016px;
+}
 .step-box-shadow {
   box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.25);
+}
+.pricing-box:hover {
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.317827);
+}
+.bigger-shadow {
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.317827);
+}
+.pricing-box:hover button {
+  background-color: #01d6ff;
+  color: white;
+}
+@media (min-width: 1300px) {
+  .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.contact-form {
+  box-shadow: 4px 2px 16px rgba(136, 165, 191, 0.54);
+}
+.send-message-btn {
+  background: radial-gradient(
+      104.73% 911.03% at -0.14% 88.85%,
+      #a4cceb 0%,
+      #008ffe 98.9%
+    )
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  border: 1.40702px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 21.1053px 35.1754px rgba(168, 22, 75, 0.15);
 }

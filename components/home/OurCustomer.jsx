@@ -11,8 +11,9 @@ const OurCustomer = () => {
                         What Our Customer’s Say
                     </p>
                 </div>
-                <div className="relative">
-                    <div className="max-w-[424px] p-[12px] sm:p-[24px] absolute top-3 md:-top-5 right-0 customer_say ">
+                <div className="sm:relative mt-3 sm:mt-0">
+                    <img src="/images/customer-img-map.png" />
+                    <div className="max-w-[424px] p-[12px] mt-3 sm:mt-0 mx-auto sm:p-[24px] sm:absolute top-3 md:-top-5 right-0 customer_say ">
                         <span>
                             <CommaIcon />
                         </span>
@@ -25,7 +26,6 @@ const OurCustomer = () => {
                             <p className="font-bold ml-[14px] ff_ubuntu text-2sm text-TrappedDarkness">StateFarm</p>
                         </div>
                     </div>
-                    <img src="/images/customer-img-map.png" />
                 </div>
             </div>
         </div>

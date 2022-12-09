@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#282C4B] px-3 py-6 sm:px-10 flex flex-col lg:flex-row items-center justify-between">
       <div className="flex flex-col lg:flex-row items-center">
-        <span className="lg:border-r lg:pr-14">
+        <span className="lg:border-r lg:pr-14 lg:pt-4">
           {" "}
           <svg
             width="246"
