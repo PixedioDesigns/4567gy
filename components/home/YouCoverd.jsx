@@ -5,7 +5,7 @@ function YouCoverd() {
   return (
     <div>
       {" "}
-      <div className="  container mx-auto px-5 my-12 lg:py-14 py-10 lg:my-[150px]  ">
+      <div className="  container mx-auto px-5 mb-10 sm:my-12 lg:py-14 py-10 lg:my-[150px]  ">
         <div className="flex flex-wrap items-center justify-center">
           <div className="lg:basis-1/2">
             <div className="my-8 lg:pr-10">

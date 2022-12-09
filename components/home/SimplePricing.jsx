@@ -9,69 +9,69 @@ const SimplePricing = () => {
 
       <div className="flex flex-wrap  justify-center pb-5">
         <div className="lg:basis-1/3  ">
-          <div className="my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease px-6 py-8 text-center mx-3 hover:scale-[1.02] ">
+          <div className="my-5 sm:my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease  p-5 sm:px-6 sm:py-8 text-center sm:mx-3 hover:scale-[1.02] ">
             <div className="flex justify-center ">
-              <img src="/images/pioneer.png" alt="" className="" />
+              <img src="/images/pioneer.png" alt="pioneer" className="" />
             </div>
             <h1 className="text-center flex justify-center md:text-7xl text-5xl font-bold items-end mt-[-50px] ff_dm_sans ">
               $34.99<span className="md:text-4xl text-2xl mb-2">/mo</span>
             </h1>
-            <p className="text-center ff_mulish py-4 mt-4 text-2md text-[#696871]">
+            <p className="text-center ff_mulish py-2 sm:py-4 mt-4 text-2md text-[#696871]">
               New Website
             </p>
-            <p className="text-center ff_mulish py-4 text-2md text-[#696871]">
+            <p className="text-center ff_mulish py-2 sm:py-4 text-2md text-[#696871]">
               Free Hosting
             </p>
-            <p className="text-center ff_mulish py-4 text-2md text-[#696871]">
+            <p className="text-center ff_mulish py-2 sm:py-4 text-2md text-[#696871]">
               Free Maitinence
             </p>
-            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
+            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
               {" "}
               Get Started
             </button>
           </div>{" "}
         </div>{" "}
         <div className="lg:basis-1/3  ">
-          <div className="my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease px-6 py-8 text-center mx-3 hover:scale-[1.02] ">
+          <div className=" my-5 sm:my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease  p-5 sm:px-6 sm:py-8 text-center sm:mx-3 hover:scale-[1.02] ">
             <div className="flex justify-center ">
-              <img src="/images/renegade.png" alt="" className="" />
+              <img src="/images/renegade.png" alt="renegade" className="" />
             </div>
             <h1 className="text-center flex justify-center md:text-7xl text-5xl font-bold items-end mt-[-55px] ff_dm_sans ">
               $34.99<span className="md:text-4xl text-2xl mb-2">/mo</span>
             </h1>
-            <p className="text-center py-4 ff_mulish mt-4 text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish mt-4 text-2md text-[#696871]">
               New Website
             </p>
-            <p className="text-center py-4 ff_mulish text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Hosting
             </p>
-            <p className="text-center py-4 ff_mulish text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Maitinence
             </p>
-            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
+            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
               {" "}
               Get Started
             </button>
           </div>{" "}
         </div>{" "}
         <div className="lg:basis-1/3  ">
-          <div className="my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease px-6 py-8 text-center mx-3 hover:scale-[1.02] ">
+          <div className="my-5 sm:my-7 step-box-shadow pricing-box rounded-[10px] duration-300 transition-all ease  p-5 sm:px-6 sm:py-8 text-center sm:mx-3 hover:scale-[1.02] ">
             <div className="flex justify-center ">
-              <img src="/images/pro.png" alt="" className="" />
+              <img src="/images/pro.png" alt="pro" className="" />
             </div>
             <h1 className="text-center flex justify-center md:text-7xl text-5xl font-bold items-end mt-[-65px] ff_dm_sans ">
               $34.99<span className="md:text-4xl text-2xl mb-2">/mo</span>
             </h1>
-            <p className="text-center py-4 ff_mulish mt-4 text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish mt-4 text-2md text-[#696871]">
               New Website
             </p>
-            <p className="text-center py-4 ff_mulish text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Hosting
             </p>
-            <p className="text-center py-4 ff_mulish text-2md text-[#696871]">
+            <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Maitinence
             </p>
-            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
+            <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
               {" "}
               Get Started
             </button>
