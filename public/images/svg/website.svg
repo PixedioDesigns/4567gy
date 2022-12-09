@@ -11,7 +11,7 @@
 </g>
 <defs>
 <filter id="filter0_b_8_61" x="-16" y="-18" width="98" height="98" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feGaussianBlur in="BackgroundImageFix" stdDeviation="10"/>
 <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_8_61"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_8_61" result="shape"/>

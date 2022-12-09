@@ -1,6 +1,4 @@
 import React from "react";
-import { process } from "../helper/helper";
-import { BookIcon } from "../helper/Icons";
 
 const StepProcess = () => {
   return (
@@ -10,9 +8,9 @@ const StepProcess = () => {
           Our step by step process
         </p>
         <div className="flex flex-wrap justify-between px-5">
-          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
+          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
             <div className="w-[94px] absolute -top-6 -left-7 bg-[#2FA4FF] h-[93px] rounded-[30px] flex justify-center items-center">
-              <img src="/images/process-img-1.png" alt="" />
+              <img src="/images/process-img-1.png" alt="process-img" />
             </div>
             <p className="font-normal ff_dm_sans pt-[34px] text-black text-5xl">
               Initial Brief
@@ -24,9 +22,9 @@ const StepProcess = () => {
               webpage design if you have one.
             </p>
           </div>
-          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
+          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
             <div className="w-[94px] absolute -top-6 -left-7 bg-[#2FA4FF] h-[93px] rounded-[30px] flex justify-center items-center">
-              <img src="/images/process-img-2.png" alt="" />
+              <img src="/images/process-img-2.png" alt="process-img" />
             </div>
             <p className="font-normal ff_dm_sans pt-[34px] text-black text-5xl">
               The design{" "}
@@ -39,9 +37,9 @@ const StepProcess = () => {
               you’re absolutely satisfied with the design.
             </p>
           </div>
-          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
+          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
             <div className="w-[94px] absolute -top-6 -left-7 bg-[#2FA4FF] h-[93px] rounded-[30px] flex justify-center items-center">
-              <img src="/images/process-img-3.png" alt="" />
+              <img src="/images/process-img-3.png" alt="process-img" />
             </div>
             <p className="font-normal ff_dm_sans pt-[34px] text-black text-5xl">
               Creation
@@ -52,9 +50,9 @@ const StepProcess = () => {
               create a stunning website for you based on the designs
             </p>
           </div>
-          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
+          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
             <div className="w-[94px] absolute -top-6 -left-7 bg-[#2FA4FF] h-[93px] rounded-[30px] flex justify-center items-center">
-              <img src="/images/process-img-4.png" alt="" />
+              <img src="/images/process-img-4.png" alt="process-img" />
             </div>
             <p className="font-normal ff_dm_sans pt-[34px] text-black text-5xl">
               Analyze
@@ -65,9 +63,9 @@ const StepProcess = () => {
               maitenince and more.
             </p>
           </div>
-          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
+          <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
             <div className="w-[94px] absolute -top-6 -left-7 bg-[#2FA4FF] h-[93px] rounded-[30px] flex justify-center items-center">
-              <img src="/images/process-img-5.png" alt="" />
+              <img src="/images/process-img-5.png" alt="process-img" />
             </div>
             <p className="font-normal ff_dm_sans pt-[34px] text-black text-5xl">
               Growth{" "}
