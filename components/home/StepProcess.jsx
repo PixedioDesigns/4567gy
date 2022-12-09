@@ -5,7 +5,7 @@ import { BookIcon } from "../helper/Icons";
 const StepProcess = () => {
     return (
         <div>
-            <div className="max-w-[1268px] px-3 mx-auto b mt-[150px] ">
+            <div className="max-w-[1268px] px-3 mx-auto  mt-[150px] ">
                 <p className="font-normal ff_dm_sans text-3xl sm:text-6xl md:text-xxl text-black text-center">Our step by step process</p>
                 <div className="flex flex-wrap justify-between px-5">
                     <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center">
