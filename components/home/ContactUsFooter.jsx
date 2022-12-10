@@ -1,6 +1,6 @@
 import React from "react";
 import useContactUs from "../../hooks/useContactUs";
-import Loader from "./Loader";
+import Loader from "../common/Loader";
 
 const ContactUsFooter = () => {
   const { setFormData, isLoading, handleSubmit, formData } = useContactUs();

@@ -1,6 +1,6 @@
 import React from "react";
 import useFreeConsultant from "../../hooks/useFreeConsultant";
-import Loader from "./Loader";
+import Loader from "../common/Loader";
 
 const HeroFreeConsultant = () => {
   const { setFormData, isLoading, handleSubmit, formData } =

@@ -225,7 +225,7 @@ export const WebDesignIcon = () => {
           width="63.7523"
           height="49.4321"
           stroke="#2FA4FF"
-          stroke-dasharray="2 4"
+          strokeDasharray="2 4"
         />
         <rect
           x="0.30481"
@@ -284,8 +284,8 @@ export const WebDesignIcon = () => {
           fill="#979797"
         />
         <path
-          fill-rule="evenodd"
-          clip-rule="evenodd"
+          fillRule="evenodd"
+          clipRule="evenodd"
           d="M6.6745 4.41089C5.01765 4.41089 3.6745 5.75404 3.6745 7.41089V12.6255H64.6911V7.41089C64.6911 5.75403 63.348 4.41089 61.6911 4.41089H6.6745ZM64.6911 13.6255H3.6745V31.7999L27.9338 51.7299H61.6911C63.348 51.7299 64.6911 50.3868 64.6911 48.7299V13.6255ZM15.5315 8.87217C15.5315 9.72037 14.8486 10.408 14.0061 10.408C13.1636 10.408 12.4807 9.72037 12.4807 8.87217C12.4807 8.02398 13.1636 7.33638 14.0061 7.33638C14.8486 7.33638 15.5315 8.02398 15.5315 8.87217ZM9.43179 8.87289C9.43179 9.72108 8.74884 10.4087 7.90638 10.4087C7.06391 10.4087 6.38096 9.72108 6.38096 8.87289C6.38096 8.02469 7.06391 7.3371 7.90638 7.3371C8.74884 7.3371 9.43179 8.02469 9.43179 8.87289ZM20.1082 10.408C20.9507 10.408 21.6337 9.72037 21.6337 8.87217C21.6337 8.02398 20.9507 7.33638 20.1082 7.33638C19.2658 7.33638 18.5828 8.02398 18.5828 8.87217C18.5828 9.72037 19.2658 10.408 20.1082 10.408Z"
           fill="url(#paint0_linear_73_136)"
         />
@@ -298,8 +298,8 @@ export const WebDesignIcon = () => {
             y2="30.9474"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-color="#80D4F0" />
-            <stop offset="1" stop-color="#2FA4FF" />
+            <stop stopColor="#80D4F0" />
+            <stop offset="1" stopColor="#2FA4FF" />
           </linearGradient>
         </defs>
       </svg>
@@ -334,7 +334,7 @@ export const MarketingIcon = () => {
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clip-path="url(#clip0_73_238)">
+        <g clipPath="url(#clip0_73_238)">
           <rect
             x="47"
             y="42"
@@ -367,7 +367,7 @@ export const MarketingIcon = () => {
               cy="50.5"
               r="2.5"
               fill="white"
-              fill-opacity="0.1"
+              fillOpacity="0.1"
             />
           </g>
           <g filter="url(#filter5_biii_73_238)">
@@ -376,8 +376,8 @@ export const MarketingIcon = () => {
               cy="64"
               r="9.16913"
               stroke="white"
-              stroke-opacity="0.2"
-              stroke-width="5.66173"
+              strokeOpacity="0.2"
+              strokeWidth="5.66173"
             />
           </g>
           <g filter="url(#filter6_biii_73_238)">
@@ -390,14 +390,14 @@ export const MarketingIcon = () => {
             <path
               d="M30.006 64.8761C29.7232 62.7024 30.8082 60.579 32.7355 59.5346C34.6627 58.4902 37.0341 58.7405 38.7008 60.1642L47.7582 67.9013C49.6285 69.499 49.3143 72.4758 47.1517 73.6478L36.6885 79.318C34.5259 80.4899 31.8604 79.1279 31.543 76.6887L30.006 64.8761Z"
               fill="white"
-              fill-opacity="0.2"
+              fillOpacity="0.2"
             />
           </g>
           <g filter="url(#filter8_biii_73_238)">
             <path
               d="M42.754 62.6883C43.7698 61.7336 45.4402 62.5843 45.3267 63.9737C45.277 64.5821 45.2477 65.1163 45.2589 65.4517C45.3025 66.7556 46.4255 67.8981 45.5044 68.868C44.5719 69.8497 43.5777 69.1155 42.0392 68.7507C41.6525 68.659 41.1089 68.6032 40.5116 68.5709C39.1336 68.4966 38.4123 66.7692 39.4178 65.8241L42.754 62.6883Z"
               fill="white"
-              fill-opacity="0.2"
+              fillOpacity="0.2"
             />
           </g>
           <g filter="url(#filter9_biii_73_238)">
@@ -407,7 +407,7 @@ export const MarketingIcon = () => {
               r="1.07844"
               transform="rotate(-28.4541 33.9225 65.5645)"
               fill="white"
-              fill-opacity="0.2"
+              fillOpacity="0.2"
             />
           </g>
           <g filter="url(#filter10_biii_73_238)">
@@ -417,14 +417,14 @@ export const MarketingIcon = () => {
               r="1.07844"
               transform="rotate(-28.4541 36.767 64.023)"
               fill="white"
-              fill-opacity="0.2"
+              fillOpacity="0.2"
             />
           </g>
           <g filter="url(#filter11_biii_73_238)">
             <path
               d="M29.4303 69.9761C28.0838 70.3369 27.9274 72.2049 29.1684 72.84C29.7118 73.1182 30.1813 73.3745 30.4606 73.5607C31.5461 74.2844 31.926 75.8407 33.2356 75.5683C34.5612 75.2925 34.4606 74.0607 34.9606 72.5607C35.0862 72.1837 35.325 71.6921 35.6121 71.1673C36.2745 69.9567 35.1858 68.4339 33.8529 68.791L29.4303 69.9761Z"
               fill="white"
-              fill-opacity="0.2"
+              fillOpacity="0.2"
             />
           </g>
           <g filter="url(#filter12_f_73_238)">
@@ -455,8 +455,8 @@ export const MarketingIcon = () => {
             r="7.66419"
             transform="rotate(7.45291 47.8361 42.8361)"
             stroke="#050121"
-            stroke-width="4"
-            stroke-dasharray="2.61 2.61"
+            strokeWidth="4"
+            strokeDasharray="2.61 2.61"
           />
           <path
             d="M93.258 85.6857C92.9394 85.6857 92.6207 85.5885 92.3408 85.3935L88.1506 82.4748C88.06 82.4116 87.9382 82.4116 87.8474 82.4748L83.6573 85.3935C83.0887 85.7896 82.3588 85.7824 81.7981 85.3753C81.2367 84.9677 81.0037 84.2753 81.2045 83.6111L82.6851 78.7121C82.7166 78.6076 82.6799 78.4927 82.5934 78.426L78.6262 75.3643C78.0742 74.9383 77.8634 74.2346 78.0894 73.5717C78.3149 72.9107 78.9097 72.4835 79.6051 72.4835H84.5567C84.6743 72.4835 84.7728 72.4172 84.8077 72.3148L86.4801 67.4003C86.7053 66.7393 87.3015 66.3125 87.9991 66.3125C88.6967 66.3125 89.2927 66.7393 89.5179 67.4L91.1905 72.3148C91.2253 72.4174 91.3238 72.4835 91.4415 72.4835H96.3954C97.0906 72.4835 97.6852 72.9106 97.9106 73.5714C98.1366 74.2343 97.9258 74.9377 97.3738 75.3636L93.4048 78.426C93.3183 78.4928 93.2815 78.6077 93.3131 78.7121L93.4431 79.1425C93.5679 79.5555 93.3343 79.9914 92.9213 80.1162C92.5085 80.2409 92.0724 80.0074 91.9476 79.5945L91.8176 79.1642C91.5997 78.4431 91.8539 77.6493 92.4504 77.1891L96.4195 74.1267C96.4372 74.1129 96.437 74.1096 96.4363 74.0966C96.4346 74.0717 96.4206 74.0513 96.4149 74.0479C96.4149 74.0479 96.4096 74.0458 96.3954 74.0458H91.4415C90.6566 74.0458 89.9614 73.5525 89.7114 72.8182L88.0391 67.9035C88.032 67.8832 88.0291 67.8747 87.9991 67.8747C87.9689 67.8747 87.966 67.8832 87.959 67.9038L86.2867 72.8181C86.0368 73.5525 85.3416 74.0458 84.5567 74.0458H79.6051C79.5907 74.0458 79.5854 74.0479 79.5854 74.0479C79.5797 74.0511 79.5657 74.0714 79.5639 74.0965C79.563 74.11 79.5627 74.1136 79.5807 74.1276L83.5478 77.1891C84.1443 77.6495 84.3985 78.4431 84.1806 79.1641L82.6999 84.063C82.6938 84.0835 82.6909 84.0928 82.7159 84.111C82.74 84.1285 82.7472 84.1235 82.7644 84.1114L86.9545 81.1929C87.5793 80.7577 88.4189 80.7577 89.0435 81.1929L93.2336 84.1116C93.2509 84.1235 93.258 84.1287 93.2821 84.111C93.3072 84.0928 93.3043 84.0835 93.2982 84.063L93.0807 83.3439C92.9559 82.9308 93.1895 82.4949 93.6026 82.3701C94.0153 82.2454 94.4514 82.4789 94.5762 82.8919L94.7935 83.6111C94.9943 84.2753 94.7613 84.9677 94.2 85.3753C93.9152 85.5821 93.5867 85.6857 93.258 85.6857Z"
@@ -471,9 +471,9 @@ export const MarketingIcon = () => {
             width="62.6185"
             height="46.1295"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="5.32998" />
             <feComposite
               in2="SourceAlpha"
@@ -530,9 +530,9 @@ export const MarketingIcon = () => {
             width="49.5074"
             height="64.4978"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="5.8258" />
             <feComposite
               in2="SourceAlpha"
@@ -571,9 +571,9 @@ export const MarketingIcon = () => {
             width="56"
             height="56"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="2" />
             <feComposite
               in2="SourceAlpha"
@@ -666,9 +666,9 @@ export const MarketingIcon = () => {
             width="13"
             height="13"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feBlend
               mode="normal"
               in="SourceGraphic"
@@ -687,9 +687,9 @@ export const MarketingIcon = () => {
             width="13"
             height="13"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="2" />
             <feComposite
               in2="SourceAlpha"
@@ -764,9 +764,9 @@ export const MarketingIcon = () => {
             width="32"
             height="32"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="2" />
             <feComposite
               in2="SourceAlpha"
@@ -841,9 +841,9 @@ export const MarketingIcon = () => {
             width="13.3321"
             height="14.713"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -918,9 +918,9 @@ export const MarketingIcon = () => {
             width="21.5016"
             height="23.3263"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -995,9 +995,9 @@ export const MarketingIcon = () => {
             width="9.39459"
             height="9.55263"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -1072,9 +1072,9 @@ export const MarketingIcon = () => {
             width="4.6335"
             height="4.63344"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -1149,9 +1149,9 @@ export const MarketingIcon = () => {
             width="4.6335"
             height="4.63344"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -1226,9 +1226,9 @@ export const MarketingIcon = () => {
             width="9.96524"
             height="9.33803"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="0.619053" />
             <feComposite
               in2="SourceAlpha"
@@ -1303,9 +1303,9 @@ export const MarketingIcon = () => {
             width="30"
             height="34"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feBlend
               mode="normal"
               in="SourceGraphic"
@@ -1324,9 +1324,9 @@ export const MarketingIcon = () => {
             width="30.1438"
             height="35.698"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feBlend
               mode="normal"
               in="SourceGraphic"
@@ -1345,9 +1345,9 @@ export const MarketingIcon = () => {
             width="10.4927"
             height="11.02"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feBlend
               mode="normal"
               in="SourceGraphic"
@@ -1367,8 +1367,8 @@ export const MarketingIcon = () => {
             y2="64.6673"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0.0941878" stop-color="#FFE5DC" />
-            <stop offset="0.230705" stop-color="#FFFFE7" stop-opacity="0" />
+            <stop offset="0.0941878" stopColor="#FFE5DC" />
+            <stop offset="0.230705" stopColor="#FFFFE7" stopOpacity="0" />
           </linearGradient>
           <linearGradient
             id="paint1_linear_73_238"
@@ -1378,9 +1378,9 @@ export const MarketingIcon = () => {
             y2="54.0258"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-color="#FFFFE6" />
-            <stop offset="0.360807" stop-color="#D5FFFF" />
-            <stop offset="0.977083" stop-color="#D5FFFF" stop-opacity="0" />
+            <stop stopColor="#FFFFE6" />
+            <stop offset="0.360807" stopColor="#D5FFFF" />
+            <stop offset="0.977083" stopColor="#D5FFFF" stopOpacity="0" />
           </linearGradient>
           <clipPath id="clip0_73_238">
             <rect width="128" height="128" fill="white" />
@@ -1581,9 +1581,9 @@ export const DataAnalyst = () => {
             width="130.262"
             height="131.251"
             filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB"
+            colorInterpolationFilters="sRGB"
           >
-            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feFlood floodOpacity="0" result="BackgroundImageFix" />
             <feGaussianBlur in="BackgroundImageFix" stdDeviation="18" />
             <feComposite
               in2="SourceAlpha"
@@ -1699,8 +1699,8 @@ export const AirosLogo = () => {
           y2="15.4998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#80D4F0" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="#80D4F0" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_105_30"
@@ -1710,8 +1710,8 @@ export const AirosLogo = () => {
           y2="42"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#00BDF9" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="#00BDF9" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </linearGradient>
       </defs>
     </svg>
@@ -1730,9 +1730,9 @@ export const HamburgerIcon = () => {
       <path
         d="M7.94995 11.95H39.95M7.94995 23.95H39.95M7.94995 35.95H39.95"
         stroke="black"
-        stroke-width="4"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="4"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
     </svg>
   );
