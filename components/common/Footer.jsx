@@ -1,4 +1,5 @@
 import React from "react";
+import { Discord, Twitter } from "../helper/Icons";
 
 const Footer = () => {
   return (
@@ -91,26 +92,39 @@ const Footer = () => {
 
       <ul className="flex items-center text-white text-base ff_ubuntu pb-6 lg:py-0">
         <li className="mx-6 cursor-pointer hover:opacity-70 transition-all duration-200 ease">
-          Portfolio
+          <a href="#portfolio">Portfolio</a>
         </li>
         <li className="mx-6 cursor-pointer hover:opacity-70 transition-all duration-200 ease">
-          Process
+          <a href="#process">Process</a>
         </li>
         <li className="mx-6 cursor-pointer hover:opacity-70 transition-all duration-200 ease">
-          Pricing
+          <a href="#pricing">Pricing</a>
         </li>
       </ul>
 
       <ul className="flex items-center">
         <li className="mx-4 cursor-pointer transition-all duration-200 ease hover:-translate-y-1">
-          <Facebook />
-        </li>
-        <li className="mx-4 cursor-pointer transition-all duration-200 ease hover:-translate-y-1">
-          <Linkedin />
+          <a
+            href="http://discord.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="flex items-center justify-center bg-white rounded-md h-[28px] w-[28px]">
+              <Discord />
+            </span>
+          </a>
         </li>
 
         <li className="mx-4 cursor-pointer transition-all duration-200 ease hover:-translate-y-1">
-          <Instagram />
+          <a
+            href="http://twitter.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="flex items-center justify-center bg-white rounded-md h-[28px] w-[28px]">
+              <Twitter />
+            </span>
+          </a>
         </li>
       </ul>
     </footer>
@@ -118,115 +132,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-export const Facebook = () => {
-  return (
-    <>
-      <svg
-        width="29"
-        height="28"
-        viewBox="0 0 29 28"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <rect width="29" height="28" rx="5.62807" fill="white" />
-        <g clipPath="url(#clip0_33_2679)">
-          <path
-            d="M14.0699 23.2155C19.1209 23.2155 23.2155 19.1209 23.2155 14.0699C23.2155 9.01894 19.1209 4.92432 14.0699 4.92432C9.01894 4.92432 4.92432 9.01894 4.92432 14.0699C4.92432 19.1209 9.01894 23.2155 14.0699 23.2155Z"
-            fill="#87DBF7"
-          />
-          <path
-            d="M16.37 14.4278H14.738V20.4064H12.2655V14.4278H11.0896V12.3267H12.2655V10.967C12.2655 9.9947 12.7274 8.47217 14.76 8.47217L16.5915 8.47983V10.5193H15.2627C15.0447 10.5193 14.7382 10.6282 14.7382 11.092V12.3286H16.586L16.37 14.4278Z"
-            fill="white"
-          />
-        </g>
-        <defs>
-          <clipPath id="clip0_33_2679">
-            <rect
-              width="18.2912"
-              height="18.2912"
-              fill="white"
-              transform="translate(4.92432 4.92432)"
-            />
-          </clipPath>
-        </defs>
-      </svg>
-    </>
-  );
-};
-
-export const Linkedin = () => {
-  return (
-    <>
-      <svg
-        width="29"
-        height="28"
-        viewBox="0 0 29 28"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <rect width="29" height="28" rx="5.62807" fill="white" />
-        <g clipPath="url(#clip0_33_2674)">
-          <path
-            d="M21.8048 21.8082V21.8075H21.8087V16.1313C21.8087 13.3544 21.2109 11.2153 17.9645 11.2153C16.4039 11.2153 15.3566 12.0717 14.9291 12.8836H14.8839V11.4746H11.8059V21.8075H15.011V16.691C15.011 15.3439 15.2663 14.0412 16.9347 14.0412C18.5785 14.0412 18.603 15.5786 18.603 16.7774V21.8082H21.8048Z"
-            fill="#87DBF7"
-          />
-          <path
-            d="M6.58716 11.4756H9.79609V21.8085H6.58716V11.4756Z"
-            fill="#87DBF7"
-          />
-          <path
-            d="M8.19009 6.33154C7.16409 6.33154 6.33154 7.16409 6.33154 8.1901C6.33154 9.2161 7.16409 10.0661 8.19009 10.0661C9.2161 10.0661 10.0486 9.2161 10.0486 8.1901C10.048 7.16409 9.21546 6.33154 8.19009 6.33154V6.33154Z"
-            fill="#87DBF7"
-          />
-        </g>
-        <defs>
-          <clipPath id="clip0_33_2674">
-            <rect
-              width="15.4772"
-              height="15.4772"
-              fill="white"
-              transform="translate(6.33154 6.33154)"
-            />
-          </clipPath>
-        </defs>
-      </svg>
-    </>
-  );
-};
-
-export const Instagram = () => {
-  return (
-    <>
-      <svg
-        width="29"
-        height="28"
-        viewBox="0 0 29 28"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <rect width="29" height="28" rx="5.62807" fill="white" />
-        <g clipPath="url(#clip0_33_2684)">
-          <path
-            d="M6.06888 6.16932C4.6315 7.66234 4.92568 9.24834 4.92568 14.0666C4.92568 18.0678 4.22757 22.0789 7.88124 23.0232C9.02215 23.3166 19.1311 23.3166 20.2705 23.0216C21.7917 22.6291 23.0294 21.3952 23.1986 19.2437C23.2222 18.9434 23.2222 9.19499 23.1978 8.88862C23.018 6.59688 21.6073 5.2761 19.7484 5.00859C19.3224 4.94686 19.237 4.92857 17.0512 4.92476C9.29804 4.92857 7.59849 4.58332 6.06888 6.16932Z"
-            fill="#87DBF7"
-          />
-          <path
-            d="M14.0683 7.31658C11.301 7.31658 8.67318 7.07041 7.66945 9.64642C7.25485 10.7104 7.31506 12.0921 7.31506 14.0706C7.31506 15.8068 7.25943 17.4385 7.66945 18.494C8.6709 21.0716 11.3201 20.8246 14.0668 20.8246C16.7167 20.8246 19.449 21.1005 20.4649 18.494C20.8803 17.4194 20.8193 16.0583 20.8193 14.0706C20.8193 11.4321 20.9649 9.72873 19.6853 8.44987C18.3896 7.15424 16.6375 7.31658 14.0653 7.31658H14.0683ZM13.4632 8.5337C19.2356 8.52456 19.9703 7.88284 19.5648 16.7975C19.4208 19.9505 17.0201 19.6045 14.0691 19.6045C8.68843 19.6045 8.53371 19.4505 8.53371 14.0676C8.53371 8.62211 8.96051 8.53675 13.4632 8.53218V8.5337ZM17.6732 9.6548C17.2259 9.6548 16.8631 10.0176 16.8631 10.465C16.8631 10.9123 17.2259 11.2751 17.6732 11.2751C18.1206 11.2751 18.4834 10.9123 18.4834 10.465C18.4834 10.0176 18.1206 9.6548 17.6732 9.6548ZM14.0683 10.6021C12.1531 10.6021 10.6006 12.1554 10.6006 14.0706C10.6006 15.9859 12.1531 17.5383 14.0683 17.5383C15.9836 17.5383 17.5353 15.9859 17.5353 14.0706C17.5353 12.1554 15.9836 10.6021 14.0683 10.6021ZM14.0683 11.8193C17.0445 11.8193 17.0483 16.322 14.0683 16.322C11.093 16.322 11.0884 11.8193 14.0683 11.8193Z"
-            fill="white"
-          />
-        </g>
-        <defs>
-          <clipPath id="clip0_33_2684">
-            <rect
-              width="18.2912"
-              height="18.2912"
-              fill="white"
-              transform="translate(4.92432 4.92432)"
-            />
-          </clipPath>
-        </defs>
-      </svg>
-    </>
-  );
-};

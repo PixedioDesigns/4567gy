@@ -5,7 +5,7 @@ import OurWorksItem from "./OurWorksItem";
 const OurWork = () => {
   return (
     <>
-      <section>
+      <section id="portfolio">
         <div className="max-w-[1287px] mx-auto my-[50px] px-3 sm:my-[120px] lg:my-[170px]  ">
           <h1 className="md:mb-16 sm:mb-10 mb-8  ff_dm_sans text-4xl md:text-7xl  text-center font-bold ">
             Our Work
