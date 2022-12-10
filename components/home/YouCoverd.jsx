@@ -3,9 +3,9 @@ import ContactUsFooter from "./ContactUsFooter";
 
 function YouCoverd() {
   return (
-    <div>
+    <section className="mb-10 sm:my-12 lg:py-14 py-10 lg:my-[150px]">
       {" "}
-      <div className="  container mx-auto px-5 mb-10 sm:my-12 lg:py-14 py-10 lg:my-[150px]  ">
+      <div className="  container mx-auto px-5 " id="contact">
         <div className="flex flex-wrap items-center justify-center">
           <div className="lg:basis-1/2">
             <div className="my-8 lg:pr-10">
@@ -24,7 +24,7 @@ function YouCoverd() {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 

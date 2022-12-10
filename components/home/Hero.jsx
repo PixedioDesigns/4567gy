@@ -4,7 +4,7 @@ import HeroFreeConsultant from "./HeroFreeConsultant";
 const Hero = () => {
   return (
     <header>
-      <div className="max-w-[1280px] mx-auto px-3 flex flex-col lg:flex-row justify-between mt-6 lg:mt-10">
+      <div className="max-w-[1280px] mx-auto px-3 flex flex-col lg:flex-row justify-between mt-6 lg:mt-14">
         <div className="w-full lg:w-1/2 mb-20 lg:mb-0">
           <h1 className="font-normal ff_dm_sans text-6xl sm:text-10xl xl:text-11xl text-black leading-[70px] lg:leading-[98px]">
             Get your <br className="hidden xl:block" /> business online{" "}
@@ -19,10 +19,13 @@ const Hero = () => {
           <div className="flex items-center mt-6">
             <div className="hero-btn-blue-blur max-w-[200px] relative">
               <button className="z-10  relative font-normal text-2sm text-black hero_btn h-[54px] px-8 sm:w-[176px] hover:-translate-y-1 hover:shadow-lg transition-all duration-200 ease">
-                Get Started
+                <a href="#contact">Get Started</a>
               </button>
             </div>
-            <button className="text-[#49C2E5] font-medium group ff_dm_sans text-xl flex items-center ml-6 lg:ml-14  transition-all duration-200 ease hover:text-[#1ecef1]">
+            <a
+              href="#pricing"
+              className="text-[#49C2E5] font-medium group ff_dm_sans text-xl flex items-center ml-6 lg:ml-14  transition-all duration-200 ease hover:text-[#1ecef1]"
+            >
               <span className="mr-3">Our pricing</span>
               <svg
                 className=" transition-all duration-200 ease group-hover:translate-x-2"
@@ -37,7 +40,7 @@ const Hero = () => {
                   fill="#49C2E5"
                 />
               </svg>
-            </button>
+            </a>
           </div>
         </div>
         <div className="w-full lg:w-1/2">

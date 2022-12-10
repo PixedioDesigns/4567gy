@@ -2,7 +2,7 @@ import React from "react";
 
 const Performance = () => {
   return (
-    <div>
+    <section id="about">
       <div className=" max-w-[1175px] mx-auto  mt-[90px]  lg:mt-[150px] px-3">
         <div className="flex flex-col lg:flex-row  mx-auto items-center justify-center lg:justify-between">
           <div>
@@ -31,7 +31,7 @@ const Performance = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

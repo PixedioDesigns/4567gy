@@ -2,7 +2,7 @@ import React from "react";
 
 const SimplePricing = () => {
   return (
-    <div className="max-w-[1280px] mx-auto px-3">
+    <div className="max-w-[1280px] mx-auto px-3" id="pricing">
       <h1 className="md:mb-16 sm:mb-10 mb-8 ff_dm_sans text-4xl md:text-7xl   text-center font-bold">
         Simple Pricing{" "}
       </h1>
