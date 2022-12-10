@@ -18,10 +18,12 @@ function GotBiggerGols() {
           </p>
           <div className="text-center md:pt-6">
             {" "}
-            <button className=" rounded-[10px]  sm:w-[337px] w-[240px] mx-auto   py-[10px] sm:py-[21px] text-2md font-bold bg-[#2FA4FF] text-white hover:shadow-lg my-8 duration-300 transition-all ff_dm_sans">
-              {" "}
-              Get Started
-            </button>
+            <a href="#contact">
+              <button className=" rounded-[10px]  sm:w-[337px] w-[240px] mx-auto   py-[10px] sm:py-[21px] text-2md font-bold bg-[#2FA4FF] text-white hover:shadow-lg my-8 duration-300 transition-all ff_dm_sans">
+                {" "}
+                Get Started
+              </button>
+            </a>
           </div>
         </div>
       </div>
