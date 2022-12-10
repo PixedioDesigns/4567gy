@@ -1,5 +1,7 @@
 import React from "react";
 import {
+  DataAnalyst,
+  MarketingIcon,
   SearchIcon,
   StackIcon,
   WebDesignIcon,
@@ -56,10 +58,10 @@ const OurServices = () => {
 
               <article className="service-shadow-hover relative mx-4 group">
                 <div className="p-[18px] sm:p-[38px] w-[280px] services mt-3 relative z-10 transition-all duration-200 ease services  group-hover:bg-white rounded-[8px] flex justify-center flex-col">
-                  <div className="flex justify-center h-[61px]">
-                    <SearchIcon />
+                  <div className="flex justify-center h-[61px] sm:-mt-[27px]">
+                    <MarketingIcon />
                   </div>
-                  <p className="font-normal text-center text-md mt-[16px] sm:mt-[37px] ff_dm_sans text-Madonna">
+                  <p className="font-normal text-center text-md mt-[45px] sm:mt-[65px] ff_dm_sans text-Madonna">
                     Marketing{" "}
                   </p>
                 </div>
@@ -68,7 +70,7 @@ const OurServices = () => {
               <article className="service-shadow-hover relative mx-4 group">
                 <div className="p-[18px] sm:p-[38px] w-[280px] services mt-3 relative z-10 transition-all duration-200 ease services  group-hover:bg-white rounded-[8px] flex justify-center flex-col">
                   <div className="flex justify-center h-[61px]">
-                    <StackIcon />
+                    <DataAnalyst />
                   </div>
                   <p className="font-normal text-center text-md mt-[16px] sm:mt-[37px] ff_dm_sans text-Madonna">
                     Data Analysis{" "}
