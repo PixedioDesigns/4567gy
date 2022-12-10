@@ -1,7 +1,7 @@
 import emailjs from "emailjs-com";
 import Swal from "sweetalert2";
 import { init } from "emailjs-com";
-init("uj7AIsyetfYhPuS2u");
+init("3fbuxzqOLspKySLk8");
 import { useState } from "react";
 
 export default function useFreeConsultant() {
@@ -19,7 +19,7 @@ export default function useFreeConsultant() {
     setLoading(true);
 
     emailjs
-      .send("service_3w6ef7e", "template_t1ulwhe", {
+      .send("service_0gy7qbn", "template_wf86vvp", {
         name: formData.name,
         email: formData.email,
         phone: formData.phone,

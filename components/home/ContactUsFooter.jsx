@@ -96,7 +96,7 @@ const ContactUsFooter = () => {
         <div className="my-8">
           <button
             type="submit"
-            className="rounded-full sm:h-[65px] sm:px-12 px-8 py-5 text-white text-md font-bold send-message-btn transition-all duration-300 hover:shadow-none ff_ubuntu "
+            className="flex items-center justify-center rounded-full sm:h-[65px] sm:px-12 px-8 py-5 text-white text-md font-bold send-message-btn transition-all duration-300 hover:shadow-none ff_ubuntu "
           >
             {isLoading ? <Loader /> : "Send Message"}
           </button>

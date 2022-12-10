@@ -1,7 +1,7 @@
 import emailjs from "emailjs-com";
 import Swal from "sweetalert2";
 import { init } from "emailjs-com";
-init("uj7AIsyetfYhPuS2u");
+init("3fbuxzqOLspKySLk8");
 import { useState } from "react";
 
 export default function useContactUs() {
@@ -19,7 +19,7 @@ export default function useContactUs() {
     setLoading(true);
 
     emailjs
-      .send("service_3w6ef7e", "template_l65ai0n", {
+      .send("service_0gy7qbn", "template_i1t9g2n", {
         fullname: formData.fullname,
         email: formData.email,
         date: formData.date,
