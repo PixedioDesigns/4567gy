@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="w-full lg:w-1/2 mb-20 lg:mb-0 ">
           <h1 className="font-normal ff_dm_sans text-6xl sm:text-10xl xl:text-11xl text-black leading-[70px] lg:leading-[98px]">
             Get your <br className="hidden xl:block" /> business{" "}
-            <span className="italic  "> online</span>{" "}
+            <span className="italic "> online</span>{" "}
           </h1>
           <p className="my-6 lg:my-14 font-normal text-2sm ff_Ibarra_Real_Nova text-BrilliantLicorice max-w-[581px]">
             We create engaing and dynamic designs to captivate your audience and

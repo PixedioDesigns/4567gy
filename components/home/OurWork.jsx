@@ -11,7 +11,7 @@ const OurWork = () => {
             Our Work
           </h1>
 
-          <div className="flex flex-wrap justify-center items-center">
+          <div className="flex flex-wrap justify-center items-start">
             {ourworksdata &&
               ourworksdata.length &&
               ourworksdata.map((obj, index) => (

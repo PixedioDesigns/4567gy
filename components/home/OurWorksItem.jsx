@@ -2,21 +2,19 @@ import React, { useState } from "react";
 import Lightbox from "react-image-lightbox";
 import "react-image-lightbox/style.css";
 
-const OurWorksItem = ({ obj, id, ourworksdata }) => {
-  const [photoIndex, setphotoIndex] = useState(0);
+const OurWorksItem = ({ obj, id }) => {
   const [isOpen, setOpen] = useState(false);
   return (
     <>
       {" "}
       <div
         onClick={() => {
-          setphotoIndex(id);
           setOpen(true);
         }}
         className="mx-3 rounded-md mb-5 cursor-pointer w-full max-w-[300px] overflow-hidden group transition-all duration-200 ease relative flex justify-center items-center after-hover-our-work"
       >
         <img
-          className="w-full group-hover:scale-105 transition-all duration-200 ease-in"
+          className="w-full group-hover:scale-105 transition-all duration-200 ease-in object-cover"
           src={obj.thumbnail}
           alt="thumbnail"
         />

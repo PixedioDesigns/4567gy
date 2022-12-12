@@ -33,27 +33,27 @@ export const process = [
 
 export const ourworksdata = [
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one0.jpg",
+    thumbnail: "/images/our-work-thumbmail-1.png",
+    lighboximage: "/images/our-work-main-1.webp",
   },
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one1.png",
+    thumbnail: "/images/our-work-thumbmail-2.png",
+    lighboximage: "/images/our-work-main-2.webp",
   },
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one2.png",
+    thumbnail: "/images/our-work-thumbmail-3.png",
+    lighboximage: "/images/our-work-main-3.webp",
   },
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one3.jpg",
+    thumbnail: "/images/our-work-thumbmail-4.png",
+    lighboximage: "/images/our-work-main-4.webp",
   },
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one4.webp",
+    thumbnail: "/images/our-work-thumbmail-5.png",
+    lighboximage: "/images/our-work-main-5.webp",
   },
   {
-    thumbnail: "/images/1-min.png",
-    lighboximage: "/images/one5.png",
+    thumbnail: "/images/our-work-main-6.webp",
+    lighboximage: "/images/our-work-main-6.webp",
   },
 ];
