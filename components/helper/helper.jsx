@@ -34,26 +34,26 @@ export const process = [
 export const ourworksdata = [
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one0.jpg",
   },
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one1.png",
   },
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one2.png",
   },
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one3.jpg",
   },
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one4.webp",
   },
   {
     thumbnail: "/images/1-min.png",
-    lighboximage: "/images/1-full.png",
+    lighboximage: "/images/one5.png",
   },
 ];
