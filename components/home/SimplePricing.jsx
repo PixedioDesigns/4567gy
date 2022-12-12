@@ -41,10 +41,10 @@ const SimplePricing = () => {
               $74.99<span className="md:text-4xl text-2xl mb-2">/mo</span>
             </h1>
             <p className="text-center py-2 sm:py-4 ff_mulish mt-4 text-2md text-[#696871]">
-              New Website
+              Everything From Pioneer
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
-              Free Hosting
+              SEO
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Maitinence
@@ -65,10 +65,10 @@ const SimplePricing = () => {
               $189.99<span className="md:text-4xl text-2xl mb-2">/mo</span>
             </h1>
             <p className="text-center py-2 sm:py-4 ff_mulish mt-4 text-2md text-[#696871]">
-              New Website
+              Renegade Package 
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
-              Free Hosting
+              Social Media Management
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
               Free Maitinence
