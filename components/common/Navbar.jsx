@@ -11,7 +11,7 @@ const Navbar = ({ setSidebarOpen }) => {
           <HamburgerIcon />
         </span>
 
-        <ul className="hidden  text-darkBlack font-medium text-lg lg:flex items-center ">
+        <ul className="hidden  text-darkBlack font-medium text-lg lg:flex items-center lg:mr-2 xl:mr-[74px] mt-3">
           <li className="mx-3 lg:mx-5">
             <a
               className=" transition-all ease-in duration-200 hover:text-[#01D6FF]"
