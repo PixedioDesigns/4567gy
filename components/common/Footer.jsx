@@ -86,7 +86,7 @@ const Footer = () => {
               </clipPath>
             </defs>
           </svg>
-          Copyright Airos Media, All right reserved
+          Copyright Airos Media, All rights reserved
         </p>
       </div>
 
