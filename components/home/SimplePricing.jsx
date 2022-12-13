@@ -20,10 +20,10 @@ const SimplePricing = () => {
               New Website
             </p>
             <p className="text-center ff_mulish py-2 sm:py-4 text-2md text-[#696871]">
-              Free Hosting
+              Hosting
             </p>
             <p className="text-center ff_mulish py-2 sm:py-4 text-2md text-[#696871]">
-              Free Maitinence
+              website Maitinence
             </p>
             <a href="#contact">
               <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
@@ -47,7 +47,7 @@ const SimplePricing = () => {
               SEO
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
-              Free Maitinence
+              website Maitinence
             </p>
             <a href="#contact">
               <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
@@ -71,7 +71,7 @@ const SimplePricing = () => {
               Social Media Management
             </p>
             <p className="text-center py-2 sm:py-4 ff_mulish text-2md text-[#696871]">
-              Free Maitinence
+              website Maitinence
             </p>
             <a href="#contact">
               <button className=" rounded-[10px]  w-full border border-[#EAE9F2] py-[10px] sm:py-[21px] text-2md font-bold text-[#2FA4FF] my-4 duration-300 transition-all ease ff_dm_sans">
