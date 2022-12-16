@@ -60,7 +60,7 @@ const StepProcess = () => {
             <div className="w-[190px] mt-[12px] h-[1px] bg-black"></div>
             <p className="font-normal pt-[40px] text-center ff_Ibarra_Real_Nova text-2sm text-BrilliantLicorice max-w-[239px]">
               Now we analyze how the new website design performs. We help with
-              maitenince and more.
+              maintenance and more.
             </p>
           </div>
           <div className="w-[364px] relative mt-[129px] process_card h-[405px] flex flex-col items-center transition-all duration-200 ease hover:-translate-y-1">
@@ -72,11 +72,9 @@ const StepProcess = () => {
             </p>
             <div className="w-[190px] mt-[12px] h-[1px] bg-black"></div>
             <p className="font-normal pt-[40px] text-center ff_Ibarra_Real_Nova text-2sm text-BrilliantLicorice max-w-[239px]">
-              We captivate your customers with designs custom for your company.
-              Studies show that users spend only 15 seconds on average looking
-              at a website ! We make sure to retain customers attention and
-              convert them into sales. We analyze your website and incorporate
-              that data into our designs.
+              Successful websites begin with a focused growth strategy. Our goal
+              in the growth stage is to develop a roadmap with clear objectives,
+              customer focused data, and turning ideas into action. 
             </p>
           </div>
         </div>
