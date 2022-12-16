@@ -83,7 +83,7 @@ function StepBuyStep() {
             </h1>
             <p className="mt-10 text-[#555252] ff_Ibarra_Real_Nova">
               Now we analyze how the new website design performs. We help with
-              maitenince and more.
+              maintenance and more.
             </p>
           </div>
           <div className="step-card h-[370px] lg:h-[405px]  rounded-[10px] bg-white relative shadow-[0px 4px 10px 3px rgba(0, 0, 0, 0.25)] lg:w-[354px] md:w-[300px] lg:px-[48px]  md:px-[40px] px-[30px] py-8 text-center  m-[30px] step-box-shadow transition-all duration-200 easae hover:-translate-y-2">
@@ -99,11 +99,9 @@ function StepBuyStep() {
               </span>
             </h1>
             <p className="mt-10 text-[#555252] ff_Ibarra_Real_Nova">
-              We captivate your customers with designs custom for your company.
-              Studies show that users spend only 15 seconds on average looking
-              at a website ! We make sure to retain customers attention and
-              convert them into sales. We analyze your website and incorporate
-              that data into our designs. designs
+              Successful websites begin with a focused growth strategy. Our goal
+              in the growth stage is to develop a roadmap with clear objectives,
+              customer focused data, and turning ideas into action.
             </p>
           </div>
         </div>
